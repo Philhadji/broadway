@@ -1,0 +1,44 @@
+body{
+  text-align: center;
+  font-family: helvetica;
+}
+
+.top{
+  background-image: url(file://C:\Users\philippos\Documents\GitHub\broadway\resources\images\the-flatiron-building.png);
+}
+
+h1.top{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2.top{
+  font-size: 23px;
+  font-weight: bold;
+  color:white;
+}
+
+.nav{
+  font-size: 18px;
+  color:white;
+}
+
+h2.supporting{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3.supporting{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p.supporting{font-size: 14px;
+}
+
+.footer{
+  font-size:11px;
+  color:white;
+  background-color: dimgray;
+}
