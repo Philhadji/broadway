@@ -4,7 +4,7 @@ body{
 }
 
 .top{
-  background-image: url(file://C:\Users\philippos\Documents\GitHub\broadway\resources\images\the-flatiron-building.png);
+  background-image: url("file://C:\Users\philippos\Documents\GitHub\broadway\resources\images\the-flatiron-building.png");
 }
 
 h1.top{
